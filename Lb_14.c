@@ -176,3 +176,4 @@ double funtion(double* ptr_array, int k)
 	return max;
 }
 
+
